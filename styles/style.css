@@ -1,1 +1,28 @@
-/* место для вашего кода */
+.description-block p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.address{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+div{
+    position:relative;
+}
+
+
+
+
+body{
+    font-family: Arial, sans-serif;
+    background-color:#f0f0f0;
+    color:#333;
+}
+h1{
+    color:#0066cc;
+}
+p{
+    margin: 20px;
+}
+    /* место для вашего кода */
